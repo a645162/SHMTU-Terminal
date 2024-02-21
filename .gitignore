@@ -86,3 +86,4 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+shmtu_ocr/src/main/cpp/3rdparty/
